@@ -1,0 +1,4 @@
+flori	albania	ferrari	4	0	0	100	4
+luis	uk	benz	0	4	0	72	4
+krist	usa	porche	0	0	1	15	1
+petro	france	smart	0	0	0	12	1
